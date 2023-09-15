@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Frontend mentor
+.DS_Store
+.prettierignore
+*.sketch
+*.fig
+*.xd
