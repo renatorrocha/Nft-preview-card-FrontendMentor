@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the project](src/assets/images/Screenshot.png)
+![Screenshot of the project](Screenshot.png)
 
 ### Links
 
