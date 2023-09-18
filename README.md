@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Link]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-nft-preview-M0HD97lLoc))
-- Live Site URL: [Vercel]([https://your-live-site-url.com](https://nft-preview-card-sage-five.vercel.app/))
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/responsive-nft-preview-M0HD97lLoc)
+- Live Site URL: [Vercel](https://nft-preview-card-sage-five.vercel.app/)
 
 ### Built with
 
