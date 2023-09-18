@@ -2,7 +2,7 @@ export function Owner() {
   return (
     <div className="mt-3 flex items-center">
       <img
-        src="src/assets/images/image-avatar.png"
+        src="/image-avatar.png"
         alt=""
         className="h-6 w-6 rounded-full border border-white"
       />
